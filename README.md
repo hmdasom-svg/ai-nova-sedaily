@@ -31,17 +31,5 @@ Lambda 함수들을 호출하는 Step Functions 생성합니다.
 S3 버킷과 연동하여 비용 절감을 위해 사용합니다.
 
 
-<div align="right">
-  
-[목차로](#목차)
-
-</div>
-
 ## 2. 클라이언트 적용
 
-
-<div align="right">
-  
-[목차로](#목차)
-
-</div>
