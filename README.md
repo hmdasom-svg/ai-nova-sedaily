@@ -8,6 +8,7 @@
 
 ## 1. 서버 적용 
 **반드시 AWS를 사용할 필요는 없고 자체적으로 구축해도 무방합니다만, 여기서는 AWS 기준으로 설명합니다.**
+<img width="1249" height="857" alt="Image" src="https://github.com/user-attachments/assets/39128153-f542-403f-9ac6-cc690b0df9bc" />
 - Lambda
 - S3
 - Step Functions
